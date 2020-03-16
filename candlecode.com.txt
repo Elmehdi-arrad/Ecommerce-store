@@ -1,0 +1,27 @@
+
+
+Create a database "somestore"
+
+import spmstore.sql file from phpmyadmin
+
+
+
+ADMIN
+ LOGIN DETAILS
+USER 
+NAME: jana
+n
+PASSWORD:admin123
+
+
+  CANDLECODE.COM - EXCLUSIVE SCRIPTS IN PHP, PLUGINS & MOBILE - DAILY RELEASES!
+
+  http://www.candlecode.com
+
+
+
+
+
+
+
+
